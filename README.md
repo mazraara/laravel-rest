@@ -3,17 +3,17 @@ Laravel REST API for product and reviews (Laravel: 5.6)
 
 Instructions 
 
-Run composer install
+Run `composer install`
 
-Run php artisan key:generate
+Run `php artisan key:generate`
 
-Run php artisan migrate
+Run `php artisan migrate`
 
-php artisan db:seed
+Run `php artisan db:seed`
 
-php artisan passport:install
+Run `php artisan passport:install`
 
-php artisan server
+Run `php artisan server`
 
 
 API endpoints
